@@ -1,8 +1,5 @@
 # Series_de_Tiempo_Espec_UIS
-Especializacion en Estadistica UIS - Temas vistos y Análisis de series de tiempo con ejemplos en R basados en el libro de Shumway &amp; Stoffer.
-# Series de Tiempo - UIS 📈
-
-Este repositorio contiene ejemplos y recursos para el análisis de series de tiempo usando R. Está basado en el libro:
+Especializacion en Estadistica UIS - Temas vistos y Análisis de series de tiempo con ejemplos en R basados en el libro: 
 
 **Shumway, R. H., & Stoffer, D. S.**  
 📘 *Time Series Analysis and Its Applications: With R Examples* (5th ed.)
